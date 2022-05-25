@@ -1,3 +1,4 @@
+````
 #include<windows.h>
 #ifdef __APPLE__
 #include <GLUT/glut.h>
@@ -101,3 +102,4 @@ glutDisplayFunc(display);
 glutMainLoop();
 return 0; /* ISO C requires main to return int. */
 }
+````
